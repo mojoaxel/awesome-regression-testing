@@ -47,6 +47,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Online services
 
+- [BrowserStack](https://www.browserstack.com/) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver)
 - [screener.io](https://screener.io/) - for React, looks open source
 - [applitools](https://applitools.com)
 - [percy.io](https://percy.io/)
