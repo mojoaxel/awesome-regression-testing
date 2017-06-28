@@ -53,6 +53,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [percy.io](https://percy.io/)
 - [screenster.io](http://screenster.io/)
 - [MogoTest](http://mogotest.com)
+- [browserling](https://www.browserling.com/)
 - [Browser Shots](http://browsershots.org/) - Screenshots only
 - and many many more...
 
