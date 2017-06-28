@@ -21,6 +21,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Blog posts
 
+* [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) |  Tutorial using [BackstopJS](https://github.com/garris/BackstopJS).
+
 ## Tools and Frameworks
 
 
