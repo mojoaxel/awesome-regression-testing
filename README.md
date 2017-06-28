@@ -2,7 +2,7 @@
 > A curated list around the topic: regression testing
 
 ## Foreword
-This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area or role. Note that this is for all areas of regression software testing *after* the code in question is written.
+This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area or role. Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awsome-testing](https://github.com/TheJambo/awesome-testing).
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **add to the list**!
 
