@@ -52,6 +52,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [applitools](https://applitools.com)
 - [percy.io](https://percy.io/)
 - [screenster.io](http://screenster.io/)
+- [MogoTest](http://mogotest.com)
 - and many many more...
 
 ## Blog posts
