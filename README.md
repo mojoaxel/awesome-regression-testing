@@ -43,6 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS](https://github.com/ariya/phantomjs)
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS hooks into Selenium for its functionality. It also sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/)
+- [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing scrennshots
 - and many many more...
 
 ## Online services
@@ -55,6 +56,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [MogoTest](http://mogotest.com)
 - [browserling](https://www.browserling.com/)
 - [Browser Shots](http://browsershots.org/) - Screenshots only
+- [Ghost Inspector](https://ghostinspector.com/) - see [introduction video](https://vimeo.com/ghostinspector/intro)
 - and many many more...
 
 ## Blog posts
@@ -65,6 +67,15 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS
 - [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031)
 - [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss/)
+- and many many more...
+
+## Slideshows, Talks and Videos
+- [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0)
+- [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc)
+- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw)
+- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4)
+- [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI)
+- [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8)
 - and many many more...
 
 ## Misc
