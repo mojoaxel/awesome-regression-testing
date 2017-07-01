@@ -26,6 +26,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
 - [SlimerJS](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
+- [trifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer
 - [CasperJS](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - A Node.js bindings implementation for the W3C WebDriver protocol
 
@@ -38,26 +39,35 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS](https://github.com/casperjs/casperjs)
 - [Huxlay](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver)
 - [PhantomFlow](https://github.com/Huddle/PhantomFlow) - An experimental approach to UI testing, based on Decision Trees
-- [CSSCritic](https://github.com/cburgmer/csscritic) - UI testing for UX people ([screencast](https://www.youtube.com/watch?v=AqQ2bNPtF60))
+- [CSSCritic](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots
 - [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS](https://github.com/ariya/phantomjs)
-- [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS hooks into Selenium for its functionality. It also sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/)
+- [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium](https://github.com/SeleniumHQ/selenium)
 - [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing scrennshots
-- and many many more...
+- [Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing
+- ~~[DalekJS](https://github.com/dalekjs/dalek)~~ - Not maintained any longer
+- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack
+- [Needle](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python)
+- [dpxdt [Depicted]](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python
+- [gatling](https://github.com/gabrielrotbart/gatling) - An integrated visual RSpec matcher which makes real visual testing easy (Ruby)
+- [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site
 
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com/) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver)
 - [screener.io](https://screener.io/) - for React, looks open source
 - [applitools](https://applitools.com)
-- [percy.io](https://percy.io/)
+- [percy.io](https://percy.io/) - Continuous visual reviews for web apps
 - [screenster.io](http://screenster.io/)
+- [siteeffect.io](http://siteeffect.io/)
 - [MogoTest](http://mogotest.com)
+- [bugsnag](https://www.bugsnag.com)
+- [screenbeacon.com](https://www.screenbeacon.com/) - Real time monitoring for visual regressions
 - [browserling](https://www.browserling.com/)
 - [Browser Shots](http://browsershots.org/) - Screenshots only
 - [Ghost Inspector](https://ghostinspector.com/) - see [introduction video](https://vimeo.com/ghostinspector/intro)
-- and many many more...
+- [CrossBrowserTesting](https://crossbrowsertesting.com/) - Manual & exploratory testing on 1500+ real browsers and mobile devices
 
 ## Blog posts
 
@@ -76,6 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4)
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI)
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8)
+- [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60)
 - and many many more...
 
 ## Misc
