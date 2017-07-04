@@ -52,7 +52,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [dpxdt [Depicted]](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python
 - [gatling](https://github.com/gabrielrotbart/gatling) - An integrated visual RSpec matcher which makes real visual testing easy (Ruby)
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site
-- [vrtest](https://github.com/nathanmarks/vrtest) - A JavaScript library for running visual regression tests on your components cross browser via selenium.
+- [vrtest](https://github.com/nathanmarks/vrtest) - A JavaScript library for running visual regression tests on your components cross browser via selenium
 - [Happo](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces
 
 ## Online services
@@ -70,7 +70,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Browser Shots](http://browsershots.org/) - Screenshots only
 - [Ghost Inspector](https://ghostinspector.com/) - see [introduction video](https://vimeo.com/ghostinspector/intro)
 - [CrossBrowserTesting](https://crossbrowsertesting.com/) - Manual & exploratory testing on 1500+ real browsers and mobile devices
-- [Argos-CI](https://www.argos-ci.com/) - Automate visual regression testing.
+- [Argos-CI](https://www.argos-ci.com/) - Automate visual regression testing
 
 ## Blog posts
 
