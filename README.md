@@ -54,7 +54,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site
 - [vrtest](https://github.com/nathanmarks/vrtest) - A JavaScript library for running visual regression tests on your components cross browser via selenium
 - [Happo](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces
-- [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool
+- [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html repot.
 
 ## Online services
 
