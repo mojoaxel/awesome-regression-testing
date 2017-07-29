@@ -7,13 +7,18 @@ This is intended to be an *incomplete* list of resources about visual regression
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpfull **Please give a Star ★**.
 
 
-### Contents
+## Contents
 
 * [General information on regression testing](#general-information-on-regression-testing)
 * [Browser automation](#browser-automation)
-* [Tools and Frameworks](#tools-and-frameworks)
+* [Tools and frameworks](#tools-and-frameworks)
 * [Online services](#online-services)
 * [Blog posts](#blog-posts)
+* [Slideshows, Talks and Videos](#slideshows-talks-and-videos)
+* [Misc](#Misc)
+  * [Contributing](#contributing)
+  * [Code of Conduct](#code-of-conduct)
+  * [License](#license)
 
 ## General information on regression testing
 
@@ -106,7 +111,6 @@ contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
 nationality, personal appearance, race, religion, or sexual identity and orientation.
-
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
