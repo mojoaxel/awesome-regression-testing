@@ -62,6 +62,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [vrtest](https://github.com/nathanmarks/vrtest) - A JavaScript library for running visual regression tests on your components cross browser via selenium.
 - [Happo](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html repot.
+- [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 
 ## Online services
 
