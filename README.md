@@ -35,6 +35,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [CasperJS](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - A Node.js bindings implementation for the W3C WebDriver protocol.
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
+- [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## Tools and frameworks
 
