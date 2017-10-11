@@ -91,13 +91,13 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
 ## Slideshows, talks and videos
-- [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0)
-- [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc)
-- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw)
-- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4)
-- [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI)
-- [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8)
-- [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60)
+- [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comarison tool.
+- [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
+- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
+- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
+- [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - Tutorial on how to create visual automated tests with Screenster.
+- [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - Demo what the Look-alike Chrome extension is, how it works and how and why it was build.
+- [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
 
 ## Miscellaneous
 
