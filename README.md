@@ -6,22 +6,22 @@ Regression testing is a type of software testing which verifies that software wh
 ## Foreword
 This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awsome-testing](https://github.com/TheJambo/awesome-testing).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpfull **Please give a Star ★**.
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
 ## Contents
 
-* [General information on regression testing](#general-information-on-regression-testing)
+* [General information](#general-information)
 * [Browser automation](#browser-automation)
 * [Tools and frameworks](#tools-and-frameworks)
 * [Online services](#online-services)
 * [Blog posts](#blog-posts)
 * [Slideshows, Talks and Videos](#slideshows-talks-and-videos)
-* [Misc](#Misc)
+* [Miscellaneous](#Miscellaneous)
   * [Contributing](#contributing)
   * [Code of Conduct](#code-of-conduct)
   * [License](#license)
 
-## General information on regression testing
+## General information
 
 - [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 - [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
@@ -78,7 +78,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
 - [Argos-CI](https://www.argos-ci.com) - Automate visual regression testing.
-- [BackTrac](https://backtrac.io) - Cloud based visual regression tool. Uses headless firefox and proprietary comparison algorithm (detect layout shifts)
+- [BackTrac](https://backtrac.io) - Cloud based visual regression tool. Uses headless firefox and proprietary comparison algorithm (detect layout shifts).
 
 ## Blog posts
 
@@ -90,7 +90,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - Introduction to PhantomCSS.
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
-## Slideshows, Talks and Videos
+## Slideshows, talks and videos
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0)
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc)
 - [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw)
@@ -99,10 +99,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8)
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60)
 
-## Misc
+## Miscellaneous
 
 ### Contributing
-See the [Awesome Regression Testing Contribution Guide](CONTRIBUTING.md) for details on how to contribute.
+See the [Contribution Guide](CONTRIBUTING.md) for details on how to contribute.
 
 ### Code of Conduct
 See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
