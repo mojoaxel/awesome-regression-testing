@@ -15,7 +15,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 * [Tools and frameworks](#tools-and-frameworks)
 * [Online services](#online-services)
 * [Blog posts](#blog-posts)
-* [Slideshows, Talks and Videos](#slideshows-talks-and-videos)
+* [Slideshows, talks and videos](#slideshows-talks-and-videos)
 * [Miscellaneous](#Miscellaneous)
   * [Contributing](#contributing)
   * [Code of Conduct](#code-of-conduct)
