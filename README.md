@@ -65,6 +65,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html repot.
 - [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
+- [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
 
 ## Online services
 
