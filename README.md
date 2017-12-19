@@ -67,6 +67,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
 - [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
 - [reg-suit](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
+- [Chimp](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## Online services
 
