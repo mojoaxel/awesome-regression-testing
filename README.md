@@ -30,7 +30,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Browser automation
 
 - [Selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
-- [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [SlimerJS](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [trifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
 - [CasperJS](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
@@ -38,10 +37,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
+- ~[PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.~ (No longer maintained)
 
 ## Tools and frameworks
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with [PhantomJS](https://github.com/ariya/phantomjs) or [SlimerJS](https://github.com/laurentj/slimerjs).
 - [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium](https://github.com/SeleniumHQ/selenium).
@@ -68,6 +67,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
 - [reg-suit](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 - [Chimp](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+- ~[PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with [PhantomJS](https://github.com/ariya/phantomjs) or [SlimerJS](https://github.com/laurentj/slimerjs)~ (No longer maintained)
 
 ## Online services
 
