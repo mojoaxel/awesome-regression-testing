@@ -52,7 +52,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS](https://github.com/ariya/phantomjs).
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium](https://github.com/SeleniumHQ/selenium).
-- [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing scrennshots.
+- [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
 - [Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Needle](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
