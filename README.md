@@ -110,9 +110,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Outdated
 
-The following projects are no longer maintained actively but are still worth mentioning because of their big user base.
+The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. (No longer maintained since 22 Dec 2017.
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 - [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## Miscellaneous
