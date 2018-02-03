@@ -37,7 +37,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
-- ~[PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.~ (No longer maintained)
+- [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 
 ## Tools and frameworks
 
@@ -67,7 +67,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
 - [reg-suit](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 - [Chimp](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
-- ~[PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with [PhantomJS](https://github.com/ariya/phantomjs) or [SlimerJS](https://github.com/laurentj/slimerjs)~ (No longer maintained)
 - [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 
 ## Online services
@@ -107,6 +106,13 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - Tutorial on how to create visual automated tests with Screenster.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - Demo what the Look-alike Chrome extension is, how it works and how and why it was build.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
+
+## Outdated
+
+The following projects are no longer maintained actively but are still worth mentioning because of their big user base.
+
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. (No longer maintained since 22 Dec 2017.
+- [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## Miscellaneous
 
