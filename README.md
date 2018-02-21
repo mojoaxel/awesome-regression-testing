@@ -78,7 +78,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
 - [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
 - [MogoTest](http://mogotest.com) - Website Browser Testing Tool For SEO Experts.
-- [screenbeacon.com](https://www.screenbeacon.com) - Real time monitoring for visual regressions.
 - [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
