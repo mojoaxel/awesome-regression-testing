@@ -85,6 +85,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Argos-CI](https://www.argos-ci.com) - Automate visual regression testing.
 - [BackTrac](https://backtrac.io) - Cloud based visual regression tool. Uses headless firefox and proprietary comparison algorithm (detect layout shifts).
 - [Chromatic](https://www.chromaticqa.com) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
+- [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 
 ## Blog posts
 
