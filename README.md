@@ -73,6 +73,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 - [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 - [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. 
+- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al. 
 
 ## Online services
 
