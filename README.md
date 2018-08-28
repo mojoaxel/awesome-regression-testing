@@ -37,7 +37,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
-- [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 
 ## Tools and frameworks
 
@@ -74,6 +73,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. 
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al. 
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
+- [CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
+- [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
+- [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 
 ## Online services
 
@@ -120,6 +123,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
+- [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 - [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
