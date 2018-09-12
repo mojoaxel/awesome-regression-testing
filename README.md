@@ -60,7 +60,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [gatling](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
-- [Happo](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
 - [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
@@ -92,6 +91,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [BackTrac](https://backtrac.io) - Cloud based visual regression tool. Uses headless firefox and proprietary comparison algorithm (detect layout shifts).
 - [Chromatic](https://www.chromaticqa.com) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
+- [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 
 ## Blog posts
 
