@@ -71,8 +71,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 - [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
-- [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. 
-- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al. 
+- [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
 
 ## Online services
