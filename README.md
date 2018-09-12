@@ -1,25 +1,27 @@
 # Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 > Curated list of awesome visual regression testing resources.
 
 Regression testing is a type of software testing which verifies that software which was previously developed and tested still performs the same way after it was changed or interfaced with other software. The purpose of regression testing is to ensure that changes to the software have not introduced new faults.
 
 ## Foreword
+
 This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
 ## Contents
 
-* [General information](#general-information)
-* [Browser automation](#browser-automation)
-* [Tools and frameworks](#tools-and-frameworks)
-* [Online services](#online-services)
-* [Blog posts](#blog-posts)
-* [Slideshows, talks and videos](#slideshows-talks-and-videos)
-* [Miscellaneous](#Miscellaneous)
-  * [Contributing](#contributing)
-  * [Code of Conduct](#code-of-conduct)
-  * [License](#license)
+- [General information](#general-information)
+- [Browser automation](#browser-automation)
+- [Tools and frameworks](#tools-and-frameworks)
+- [Online services](#online-services)
+- [Blog posts](#blog-posts)
+- [Slideshows, talks and videos](#slideshows-talks-and-videos)
+- [Miscellaneous](#Miscellaneous)
+  - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
 
 ## General information
 
@@ -70,8 +72,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 - [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
-- [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. 
-- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al. 
+- [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+- [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
 - [CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
 - [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
@@ -110,6 +112,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
 
 ## Slideshows, talks and videos
+
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comparison tool.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
 - [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
@@ -130,9 +133,11 @@ The following projects are no longer maintained actively but are still worth men
 ## Miscellaneous
 
 ### Contributing
+
 See the [Contribution Guide](CONTRIBUTING.md) for details on how to contribute.
 
 ### Code of Conduct
+
 See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
 > In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
@@ -141,6 +146,7 @@ size, disability, ethnicity, gender identity and expression, level of experience
 nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### License
+
 [![CC-BY-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
