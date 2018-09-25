@@ -42,6 +42,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Tools and frameworks
 
+- [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 - [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium](https://github.com/SeleniumHQ/selenium).
