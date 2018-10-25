@@ -18,6 +18,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Online services](#online-services)
 - [Blog posts](#blog-posts)
 - [Slideshows, talks and videos](#slideshows-talks-and-videos)
+- [Deprecated](#deprecated)
 - [Miscellaneous](#Miscellaneous)
   - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
@@ -58,7 +59,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Needle](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-- [dpxdt [Depicted]](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 - [gatling](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
@@ -125,13 +125,14 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
 - [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) by Nikhil Verma - How the Mobile Web team in Badoo converted and integrated PhantomCSS into their workflow and connected it to their CI process.
 
-## Outdated
+## Deprecated
 
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 - [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+- [dpxdt](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
 ## Miscellaneous
 
