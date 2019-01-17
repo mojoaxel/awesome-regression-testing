@@ -100,6 +100,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
+- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
 ## Blog posts
 
