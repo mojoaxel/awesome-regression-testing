@@ -81,6 +81,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
+- [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
 ## Online services
 
@@ -100,6 +101,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
+- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
 ## Blog posts
