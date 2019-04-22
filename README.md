@@ -82,6 +82,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
+- [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
 ## Online services
 
