@@ -105,6 +105,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
 - [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
+- [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
 
 ## Blog posts
 
