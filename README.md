@@ -43,6 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Tools and frameworks
 
+- [basset](https://github.com/basset/basset) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack. [See more](https://basset.io)
 - [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 - [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
