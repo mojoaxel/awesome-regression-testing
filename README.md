@@ -8,7 +8,7 @@ Regression testing is a type of software testing which verifies that software wh
 
 This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](.github/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
 ## Contents
 
@@ -148,11 +148,11 @@ The following projects are no longer maintained actively but are still worth men
 
 ### Contributing
 
-See the [Contribution Guide](CONTRIBUTING.md) for details on how to contribute.
+See the [Contribution Guide](.github/CONTRIBUTING.md) for details on how to contribute.
 
 ### Code of Conduct
 
-See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+See the [Code of Conduct](.github/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
 > In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
