@@ -108,6 +108,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 - [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
+- [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
 
 ## Blog posts
 
