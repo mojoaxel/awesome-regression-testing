@@ -110,6 +110,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 - [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
+- [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
 ## Blog posts
 
