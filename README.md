@@ -134,6 +134,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
 - [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) by Nikhil Verma - How the Mobile Web team in Badoo converted and integrated PhantomCSS into their workflow and connected it to their CI process.
 
+## Guides
+
+- [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright and Puppeteer.
+
 ## Deprecated
 
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
