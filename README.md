@@ -18,6 +18,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Online services](#online-services)
 - [Blog posts](#blog-posts)
 - [Slideshows, talks and videos](#slideshows-talks-and-videos)
+- [Guides](#guides)
 - [Deprecated](#deprecated)
 - [Miscellaneous](#Miscellaneous)
   - [Contributing](#contributing)
