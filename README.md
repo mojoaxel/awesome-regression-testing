@@ -18,7 +18,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Online services](#online-services)
 - [Blog posts](#blog-posts)
 - [Slideshows, talks and videos](#slideshows-talks-and-videos)
-- [Guides](#guides)
 - [Deprecated](#deprecated)
 - [Miscellaneous](#Miscellaneous)
   - [Contributing](#contributing)
@@ -123,6 +122,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter
 - [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
+- [theheadless.dev](https://theheadless.dev) - Blog with practical guides and runnable examples on Playwright and Puppeteer.
+
 
 ## Slideshows, talks and videos
 
@@ -134,10 +135,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - Demo what the Look-alike Chrome extension is, how it works and how and why it was build.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
 - [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) by Nikhil Verma - How the Mobile Web team in Badoo converted and integrated PhantomCSS into their workflow and connected it to their CI process.
-
-## Guides
-
-- [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright and Puppeteer.
 
 ## Deprecated
 
