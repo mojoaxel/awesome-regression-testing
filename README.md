@@ -82,6 +82,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 - [Selenide](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
+- [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
 
 ## Online services
 
