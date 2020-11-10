@@ -48,6 +48,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium](https://github.com/SeleniumHQ/selenium).
+- [Creevey](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
 - [CSSCritic](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
