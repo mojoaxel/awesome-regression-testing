@@ -28,7 +28,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 - [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
-- [visualregressiontesting.com](https://visualregressiontesting.com/) - Basic collection of links.
 
 ## Browser automation
 
