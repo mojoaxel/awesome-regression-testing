@@ -112,6 +112,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 - [TestingBot](https://testingbot.com) - Provides +3600 browsers to run automated visual tests. Free for Open Source.
+- [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. Use for free!
 
 ## Blog posts
 
