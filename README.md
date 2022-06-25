@@ -85,6 +85,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 - [Selenide](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 - [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
+- [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 
 ## Online services
 
