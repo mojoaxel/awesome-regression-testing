@@ -139,6 +139,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
 - [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 - [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - Improved manual visual regression testing with the PerfectPixel chrome plugin.
+- [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022. 
 
 ## Slideshows, talks and videos
 
