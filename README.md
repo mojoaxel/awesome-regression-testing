@@ -83,6 +83,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
+- [testRigor](https://github.com/qaforeveryone/awesome-testRigor) - E2E functional test automation tool for web, mobile, and desktop tests.
 
 ## Online services
 
