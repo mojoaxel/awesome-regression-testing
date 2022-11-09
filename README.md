@@ -114,6 +114,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
+- [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
 
 ## Blog posts
 
