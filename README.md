@@ -117,8 +117,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
 - [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
-- [testomatio-reporter](https://github.com/testomatio/reporter) Allows to collect tests to TCMS and sync manual and automated tests in one place.
-- [GitHub Pipe](https://github.com/testomatio/reporter/blob/master/docs/pipes/github.md) Simple reporting and analytics for GithubAction runs.
+- [Testomat.io Reporter](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
 
 ## Blog posts
 
