@@ -86,6 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Online services
 
+- [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
 - [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 - [BugBug.io](https://bugbug.io/) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
@@ -100,7 +101,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
-- [Argos-CI](https://www.argos-ci.com) - Automate visual regression testing.
 - [Diffy](https://diffy.website) - Cloud based visual regression tool. Uses puppeteer and proprietary comparison algorithm (detect layout shifts). Great scalability with AWS Lambda.
 - [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
