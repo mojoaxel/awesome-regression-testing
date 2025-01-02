@@ -101,7 +101,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
 - [Argos-CI](https://www.argos-ci.com) - Automate visual regression testing.
-- [Diffy](https://diffy.website) - Cloud based visual regression tool. Uses puppeteer and proprietary comparison algorithm (detect layout shifts). Great scalability with AWS Lambda.
+- [Diffy](https://diffy.website) - Cloud based visual regression tool that focuses on Drupal and WordPress. Full page screenshots and minimal number of false positives. Just provide URLs of your sites to get started. No coding required.
 - [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
