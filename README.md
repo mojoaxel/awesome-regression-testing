@@ -100,7 +100,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
-- [Argos-CI](https://www.argos-ci.com) - Automate visual regression testing.
+- [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
 - [Diffy](https://diffy.website) - Cloud based visual regression tool that focuses on Drupal and WordPress. Full page screenshots and minimal number of false positives. Just provide URLs of your sites to get started. No coding required.
 - [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
