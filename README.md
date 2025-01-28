@@ -126,6 +126,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
+- [CodeLift: Introduction to Diffy for Visual Regression Testing] - (https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing)
 - [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 - [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
 - [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
