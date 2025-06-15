@@ -32,6 +32,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Browser automation
 
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
+- [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
 - [Selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 - [SlimerJS](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
