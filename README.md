@@ -141,6 +141,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
 - [Visual regression testing using Jest, Chromeless and AWS Lambda](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - Tutorial using Chromeless and jest-image-snapshot.
 - [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
+- [Webshot Archive](https://www.webshotarchive.com) - E2E screenshot hosting with Github Action for visual differences, including commenting on PRs.
 
 ## Slideshows, talks and videos  (a-z↓)
 
