@@ -100,6 +100,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
+- [Keploy](https://keploy.io) - Open-source regression testing tool that automatically generates test cases and mocks from real API calls.
+
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
