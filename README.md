@@ -42,7 +42,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
-- [BitDive](https://github.com/bitDive/java-producer) - Java agent and Spring integration library for regression testing. Captures runtime execution data, HTTP/DB calls, and builds distributed traces without writing test scripts.
+- [BitDive](https://bitdive.io/) - BitDive is a zero-code regression testing tool for Java/Kotlin applications. It captures real runtime behavior (methods, SQL, HTTP) and enables Live Context Replay with automatic mocking to detect semantic drift between versions.
 - [Chimp](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 - [CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
 - [Creevey](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
