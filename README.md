@@ -110,6 +110,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
 - [screener.io](https://screener.io) - For React, looks open source.
 - [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
+- [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [TestGrid](https://www.testgrid.io/) - Perform End to End test automation be it cross browser testing, mobile app testing, performance testing or API testing on cloud or on-premise.
 - [TestingBot](https://testingbot.com) - Provides +3600 browsers to run automated visual tests. Free for Open Source.
 - [Testomat.io Reporter](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
