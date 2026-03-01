@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
+- [Treeify](https://treeifyai.com) - Treeify is an AI test-case design copilot that turns long PRDs and specs into structured, traceable, high-coverage scenarios with a mind-map-native, multi-agent workflow, note-based regeneration, and clean exports to your TMS.
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 - [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
@@ -129,6 +130,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 - [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
+- [Awesome Test Case Design](https://github.com/Treeify-ai/Awesome-Test-Case-Design/tree/main) - Free, open-source templates & playbooks that turn long PRDs into structured, traceable, high-coverage test designs—design in structure, export later.
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 - [CodeLift: Introduction to Diffy for Visual Regression Testing](https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing) - Catch visual and functional issues before they reach production.
 - [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
