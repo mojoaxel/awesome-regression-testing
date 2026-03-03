@@ -107,6 +107,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+- [PageBolt](https://pagebolt.dev) - Screenshot, video recording, PDF, and page inspection API with device emulation, ad blocking, and cookie banner removal.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
 - [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
@@ -123,7 +124,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
-- [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
+- [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
 
 ## Blog posts  (a-z↓)
 
