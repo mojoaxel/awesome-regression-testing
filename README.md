@@ -32,7 +32,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Browser automation
 
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
-- [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
 - [Selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 - [SlimerJS](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
@@ -104,6 +103,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+- [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
 - [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
