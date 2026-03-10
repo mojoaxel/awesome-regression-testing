@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+- [TestDino](https://testdino.com) - Playwright focused test reporting and analytics that centralizes CI runs, classifies failures, and helps teams debug faster.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
