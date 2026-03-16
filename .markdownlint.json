@@ -1,0 +1,6 @@
+{
+    // Allow longer lines
+    "MD013": false,
+    // Allow bare URLs/Emails
+    "MD034": false
+}
