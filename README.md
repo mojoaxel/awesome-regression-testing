@@ -12,14 +12,16 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Contents
 
+- [Foreword](#foreword)
+- [Contents](#contents)
 - [General information](#general-information)
 - [Browser automation](#browser-automation)
-- [Tools and frameworks](#tools-and-frameworks)
-- [Online services](#online-services)
-- [Blog posts](#blog-posts)
-- [Slideshows, talks and videos](#slideshows-talks-and-videos)
-- [Deprecated](#deprecated)
-- [Miscellaneous](#Miscellaneous)
+- [Tools and frameworks (a-z↓)](#tools-and-frameworks-a-z)
+- [Online services (a-z↓)](#online-services-a-z)
+- [Blog posts  (a-z↓)](#blog-posts--a-z)
+- [Slideshows, talks and videos  (a-z↓)](#slideshows-talks-and-videos--a-z)
+- [Deprecated  (a-z↓)](#deprecated--a-z)
+- [Miscellaneous](#miscellaneous)
   - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
   - [License](#license)
