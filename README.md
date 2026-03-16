@@ -91,7 +91,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [applitools](https://applitools.com) - Cloud base visual tests.
 - [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
-- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
+- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
@@ -109,7 +109,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
-- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
+- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
