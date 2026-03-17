@@ -124,6 +124,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
+- [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
 ## Blog posts  (a-z↓)
 
