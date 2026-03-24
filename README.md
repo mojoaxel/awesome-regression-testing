@@ -159,6 +159,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
+- [Scaling up your Screenshot Testing, without the Friction](https://www.youtube.com/watch?v=9sarjgIHF2g) - Mobile focussed talk from Droidcon/Fluttercon India. Explains the bottlenecks with scaling up screenshot testing and how to solve them.
 
 ## Deprecated  (a-z↓)
 
