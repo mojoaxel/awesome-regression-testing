@@ -164,6 +164,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
+- [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [CasperJS](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 - [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
