@@ -49,8 +49,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Creevey](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
 - [CSSCritic](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
 - [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
+- [DiffGoblin Action](https://github.com/neg-0/diffgoblin-action) - GitHub Action that screenshots two URLs and posts a visual diff as a PR comment. Zero config, no external service needed.
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 - [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+- [Frostbyte Screenshot Action](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD. API-based (no local browser), supports 5 viewports, full-page capture, dark mode.
 - [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium](https://github.com/SeleniumHQ/selenium).
 - [gatling](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
@@ -59,6 +61,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 - [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
+- [Lastest](https://github.com/las-team/lastest) - Visual regression testing platform built on Playwright with screenshot diffing, baseline review, and AI flake triage. Self-hostable via docker-compose or k8s.
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 - [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
@@ -107,6 +110,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+- [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
+- [PageBolt](https://pagebolt.dev) - Screenshot, video recording, PDF, and page inspection API with device emulation, ad blocking, and cookie banner removal.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
 - [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
@@ -160,6 +165,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
+- [Scaling up your Screenshot Testing, without the Friction](https://www.youtube.com/watch?v=9sarjgIHF2g) - Mobile focussed talk from Droidcon/Fluttercon India. Explains the bottlenecks with scaling up screenshot testing and how to solve them.
 
 ## Deprecated  (a-z↓)
 
