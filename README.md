@@ -40,7 +40,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 - [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
-- [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 - [BitDive](https://bitdive.io/) - BitDive is a zero-code regression testing tool for Java/Kotlin applications. It captures real runtime behavior (methods, SQL, HTTP) and enables Live Context Replay with automatic mocking to detect semantic drift between versions.
 - [BFFless](https://bffless.app) - Self-hosted platform for hosting and viewing visual regression screenshots from CI/CD pipelines with GitHub Actions integration.
