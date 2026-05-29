@@ -12,14 +12,16 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Contents
 
+- [Foreword](#foreword)
+- [Contents](#contents)
 - [General information](#general-information)
 - [Browser automation](#browser-automation)
-- [Tools and frameworks](#tools-and-frameworks)
-- [Online services](#online-services)
-- [Blog posts](#blog-posts)
-- [Slideshows, talks and videos](#slideshows-talks-and-videos)
-- [Deprecated](#deprecated)
-- [Miscellaneous](#Miscellaneous)
+- [Tools and frameworks (a-z↓)](#tools-and-frameworks-a-z)
+- [Online services (a-z↓)](#online-services-a-z)
+- [Blog posts  (a-z↓)](#blog-posts--a-z)
+- [Slideshows, talks and videos  (a-z↓)](#slideshows-talks-and-videos--a-z)
+- [Deprecated  (a-z↓)](#deprecated--a-z)
+- [Miscellaneous](#miscellaneous)
   - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
   - [License](#license)
@@ -59,7 +61,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Happo](https://github.com/happo/happo.io) - Visual diffing in CI for user interfaces.
 - [Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
-- [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 - [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
 - [Lastest](https://github.com/las-team/lastest) - Visual regression testing platform built on Playwright with screenshot diffing, baseline review, and AI flake triage. Self-hostable via docker-compose or k8s.
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
@@ -93,7 +94,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [applitools](https://applitools.com) - Cloud base visual tests.
 - [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
-- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
+- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
@@ -113,7 +114,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
 - [PageBolt](https://pagebolt.dev) - Screenshot, video recording, PDF, and page inspection API with device emulation, ad blocking, and cookie banner removal.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
-- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
+- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
@@ -177,6 +178,7 @@ The following projects are no longer maintained actively but are still worth men
 - [dpxdt](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 - [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
 - [Huxley](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+- [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS](https://github.com/ariya/phantomjs).
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
