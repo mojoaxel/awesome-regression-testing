@@ -79,7 +79,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-- [TestDino](https://testdino.com) - Playwright focused test reporting and analytics that centralizes CI runs, classifies failures, and helps teams debug faster.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
@@ -116,6 +115,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [screener.io](https://screener.io) - For React, looks open source.
 - [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+- [TestDino](https://testdino.com) - Playwright focused test reporting and analytics that centralizes CI runs, classifies failures, and helps teams debug faster.
 - [TestGrid](https://www.testgrid.io/) - Perform End to End test automation be it cross browser testing, mobile app testing, performance testing or API testing on cloud or on-premise.
 - [TestingBot](https://testingbot.com) - Provides +3600 browsers to run automated visual tests. Free for Open Source.
 - [Testomat.io Reporter](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
