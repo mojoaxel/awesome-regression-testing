@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 - [Selenide](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 - [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+- [silentdrop](https://github.com/sravan27/silentdrop) - Zero-dependency conformance checker for JS database query layers. Finds silent data-loss bugs (LIKE / case-fold / comparison divergences from SQL semantics) that return the wrong rows with no error. Proven on Dexie + AlaSQL adapters; same lens fixed real bugs in PowerSync, Rocicorp's Zero, InstantDB, ElectricSQL, and Dexie this year.
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
