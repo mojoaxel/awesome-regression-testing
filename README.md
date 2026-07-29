@@ -106,8 +106,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
 - [Keploy](https://keploy.io) - Open-source regression testing tool that automatically generates test cases and mocks from real API calls.
-
-- [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 - [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
@@ -120,6 +118,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [screener.io](https://screener.io) - For React, looks open source.
 - [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+- [SmartUI](https://www.testmuai.com/visual-testing-tool/) - Spot pixel-level UI differences with SmartUI's AI agents and agent skills. Run screenshot comparisons in parallel across real browsers and devices.
 - [TestGrid](https://www.testgrid.io/) - Perform End to End test automation be it cross browser testing, mobile app testing, performance testing or API testing on cloud or on-premise.
 - [TestingBot](https://testingbot.com) - Provides +3600 browsers to run automated visual tests. Free for Open Source.
 - [Testomat.io Reporter](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
