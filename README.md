@@ -111,6 +111,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 - [MyVisReg](https://myvisreg.com) – Run visual regression tests directly in your browser with no installs or setup.
+- [Nutilz Image Diff](https://nutilz.com/image-diff) - Free browser-based pixel diff tool. Compare two images side by side with changed pixels highlighted, adjustable sensitivity threshold, and a downloadable diff image. No upload, no signup.
 - [PageBolt](https://pagebolt.dev) - Screenshot, video recording, PDF, and page inspection API with device emulation, ad blocking, and cookie banner removal.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
 - [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
