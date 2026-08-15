@@ -39,6 +39,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Tools and frameworks (a-z↓)
 
 - [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with persistent run memory.
 - [AyeSpy](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
