@@ -124,6 +124,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TestingBot](https://testingbot.com) - Provides +3600 browsers to run automated visual tests. Free for Open Source.
 - [Testomat.io Reporter](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
 - [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
+- [UI Verify](https://uiverify.ai) - AI-native visual testing that replays your Storybook, Playwright, and Vitest tests, screenshots each pull request, and triages every change as change, regression, or flake so the coding agent sees what it broke. No Storybook required.
 - [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
 - [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
