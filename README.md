@@ -117,6 +117,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
+- [Screenshot Happy](https://screenshot-api-production-ffd7.up.railway.app) - Hosted screenshot, video, and PDF capture API with full-page mode, custom viewports, CSS-selector targeting, and scheduled visual-change monitoring via webhooks.
 - [screener.io](https://screener.io) - For React, looks open source.
 - [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
