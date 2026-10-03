@@ -70,6 +70,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 - [OSnap](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Runtime-behaviour regression for AI coding agents: records a real run from outside the agent process, then re-executes it deterministically with the network off.
 - [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
