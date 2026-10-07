@@ -61,6 +61,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 - [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
+- [Keploy](https://keploy.io) - Open-source tool that records real API traffic and replays it as regression tests with auto-generated mocks - no code changes required.
 - [Lastest](https://github.com/las-team/lastest) - Visual regression testing platform built on Playwright with screenshot diffing, baseline review, and AI flake triage. Self-hostable via docker-compose or k8s.
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 - [Look-alike](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
@@ -148,6 +149,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - Introduction to PhantomCSS.
 - [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - Why you should use BackstopJS.
 - [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - Improved manual visual regression testing with the PerfectPixel chrome plugin.
+- [Regression Testing: Techniques, Tools & Best Practices](https://keploy.io/blog/community/regression-testing-an-introductory-guide) - A practical guide covering regression testing techniques, tools and best practices for CI/CD pipelines.
 - [theheadless.dev](https://theheadless.dev) - Blog with practical guides and runnable examples on Playwright and Puppeteer.
 - [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 - [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter
