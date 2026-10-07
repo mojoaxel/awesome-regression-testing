@@ -50,6 +50,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [CSSCritic](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
 - [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [DiffGoblin Action](https://github.com/neg-0/diffgoblin-action) - GitHub Action that screenshots two URLs and posts a visual diff as a PR comment. Zero config, no external service needed.
+- [dsh-verify](https://github.com/263311487-ux/dsh-verify) - Real-browser acceptance checks for agent-built web apps, with screenshot + diff receipts. The browser is the judge — no LLM in the verdict.
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 - [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
 - [Frostbyte Screenshot Action](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD. API-based (no local browser), supports 5 viewports, full-page capture, dark mode.
