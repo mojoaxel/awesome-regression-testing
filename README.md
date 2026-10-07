@@ -35,6 +35,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 - [SlimerJS](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for visual regression testing. Genuine browser fingerprints, residential IPs, DevTools protocol.
 
 ## Tools and frameworks (a-z↓)
 
