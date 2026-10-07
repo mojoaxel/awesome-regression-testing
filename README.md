@@ -105,6 +105,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
+- [Kane CLI](https://www.testmuai.com/kane-cli) - Terminal tool that runs plain-English browser flows and seals screenshots plus a HAR on every run as evidence.
 - [Keploy](https://keploy.io) - Open-source regression testing tool that automatically generates test cases and mocks from real API calls.
 
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
