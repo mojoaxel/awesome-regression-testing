@@ -86,6 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 - [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+- [whydiff](https://github.com/rodindev/whydiff) - Explains why a Playwright screenshot changed, not just which pixels: reads the DOM and CSS rules under the diff to name the element, the rule with old and new values, and which failures share the cause.
 - [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
 
