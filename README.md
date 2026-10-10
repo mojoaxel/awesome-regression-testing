@@ -101,6 +101,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
 - [Diffy](https://diffy.website) - Cloud based visual regression tool that focuses on Drupal and WordPress. Full page screenshots and minimal number of false positives. Just provide URLs of your sites to get started. No coding required.
+- [Endtest](https://endtest.io) - AI-powered web and mobile test automation platform with visual regression testing, screenshot comparisons, cross-browser execution, and no-code test creation.
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
