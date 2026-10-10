@@ -84,6 +84,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Touca](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 - [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
+- [Wayback-Diff](https://github.com/GeiserX/Wayback-Diff) - Command-line tool that compares two web pages or Wayback Machine snapshots, with side-by-side and pixel-diff screenshots in Chrome, Firefox, Edge and Opera.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 - [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
 - [Wraith](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
