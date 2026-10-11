@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 - [Selenide](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 - [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+- [show-your-work](https://github.com/iamumeransari/claude-show-your-work) - Claude Code plugin that records the same flow on the original and updated versions and plays them side by side in the terminal, synced, with what changed and the QA result.
 - [Spectre](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
