@@ -72,6 +72,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OSnap](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 - [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
+- [Proxy QA Browser](https://github.com/UbaidBinWaris/proxy_browser) - Open-source desktop app with screenshot comparisons against approved baselines per browser, device and location, exportable for CI.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
 - [qd_screenshottests](https://www.drupal.org/project/qd_screenshottests) - CasperJS-based UI regression and functional testing focused on Drupal 8 sites.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
