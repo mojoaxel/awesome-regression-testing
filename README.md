@@ -118,6 +118,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
 - [screener.io](https://screener.io) - For React, looks open source.
+- [ScreenshotRun](https://screenshotrun.com) - Screenshot API for developers. Capture full-page or viewport screenshots as PNG, JPEG, WebP, or PDF via REST API. Useful for visual regression baselines and automated screenshot comparisons.
+- [SnapshotArchive](https://snapshotarchive.com) - Scheduled website screenshot archiving with visual change detection. Automatically captures snapshots and alerts when visual changes are detected.
 - [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable.
