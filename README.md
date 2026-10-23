@@ -91,6 +91,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Online services (a-z↓)
 
+- [Allscreenshots](https://allscreenshots.com) - Screenshot API for capturing web pages as PNG, JPEG, WebP or PDF with fixed viewports and device emulation. Scheduled captures can detect changes against the previous run using a pixel-difference threshold.
 - [applitools](https://applitools.com) - Cloud base visual tests.
 - [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
 - [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
