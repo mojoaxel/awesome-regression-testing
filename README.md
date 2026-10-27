@@ -74,6 +74,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
 - [qd_screenshottests](https://www.drupal.org/project/qd_screenshottests) - CasperJS-based UI regression and functional testing focused on Drupal 8 sites.
+- [rebaseline](https://github.com/theghost1980/rebaseline) - Local review UI for failed Playwright screenshot tests that writes only accepted baselines, including from GitHub Actions runs.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
 - [reg-suit](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
