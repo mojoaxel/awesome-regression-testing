@@ -97,7 +97,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-- [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/getting-started) - Visual regression testing (in Preview) from Playwright, Selenium, Cypress and Puppeteer plugins, Storybook, or scriptless URL/sitemap capture. Desktop up to 4K plus iPad, iPhone, Pixel and Galaxy, and can gate GitHub PR merges.
+- [Buddy Visual Tests](https://buddy.works/visual-tests) - Visual regression testing (in Preview) from Playwright, Selenium, Cypress and Puppeteer plugins, Storybook, or scriptless URL/sitemap capture. Desktop up to 4K plus iPad, iPhone, Pixel and Galaxy, and can gate GitHub PR merges.
 - [BugBug.io](https://bugbug.io/) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 - [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
