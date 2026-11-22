@@ -45,6 +45,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [BitDive](https://bitdive.io/) - BitDive is a zero-code regression testing tool for Java/Kotlin applications. It captures real runtime behavior (methods, SQL, HTTP) and enables Live Context Replay with automatic mocking to detect semantic drift between versions.
 - [BFFless](https://bffless.app) - Self-hosted platform for hosting and viewing visual regression screenshots from CI/CD pipelines with GitHub Actions integration.
 - [Chimp](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+- [CirCI](https://circi.dev) - Self-hosted visual regression testing: upload screenshots from any CI, review the changes and gate pull requests on GitHub, GitLab and Bitbucket.
 - [CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
 - [Creevey](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
 - [CSSCritic](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
